@@ -1,1 +1,1 @@
-#react-skeleton
+#react-ingredients-style
